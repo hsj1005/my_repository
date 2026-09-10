@@ -1,8 +1,8 @@
 print("hello world!")
 
-def print_KIT():
+def KIT():
     print("KIT")
 
-print_KIT
+KIT
 
 print(bool(1.1 + 0.1 == 1.2))
